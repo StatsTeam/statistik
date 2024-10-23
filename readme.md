@@ -1,1 +1,14 @@
 # Statistik
+
+ Dieses Repository enthält verschiedene Materialien und Ressourcen rund um die Themen Statistik,
+ Datenanalyse und Wahrscheinlichkeitsrechnung. Hier findest du Code-Beispiele,
+ Erklärungen und Dokumentationen zu gängigen statistischen Methoden und Konzepten.
+
+## Inhaltsverzeichnis
+
+<ul>
+    <li>
+        <a href="Was_ist_Statistik.ipynb">1. Was ist Statistik</a>
+        <a href="Grundlegende_Begriffe_der_Statistik.ipynb">2. Grundlegende Begriffe der Statistik</a>
+    </li>
+</ul>
