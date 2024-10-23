@@ -9,6 +9,8 @@
 <ul>
     <li>
         <a href="Was_ist_Statistik.ipynb">1. Was ist Statistik</a>
+    </li>
+    <li>
         <a href="Grundlegende_Begriffe_der_Statistik.ipynb">2. Grundlegende Begriffe der Statistik</a>
     </li>
 </ul>
