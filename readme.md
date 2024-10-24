@@ -8,21 +8,21 @@
 
 <ul>
     <li>
-        <a href="Was_ist_Statistik.ipynb">1. Was ist Statistik</a>
+        <a href="lecture_notes/Was_ist_Statistik.ipynb">1. Was ist Statistik</a>
     </li>
     <li>
-        <a href="Grundlegende_Begriffe_der_Statistik.ipynb">2. Grundlegende Begriffe der Statistik</a>
+        <a href="lecture_notes/Grundlegende_Begriffe_der_Statistik.ipynb">2. Grundlegende Begriffe der Statistik</a>
         <ul>
             <li>
-                <a href="Aufgaben_Grundlegende_Begriffe_der_Statistik.ipynb">2.1 Aufgaben zu: Grundlegende Begriffe der Statistik</a>
+                <a href="lecture_notes/Aufgaben_Grundlegende_Begriffe_der_Statistik.ipynb">2.1 Aufgaben zu: Grundlegende Begriffe der Statistik</a>
             </li>
         </ul>
     </li>
     <li>
-        <a href="Klassifikation_von_Merkmalen.ipynb">3. Klassifikation von Merkmalen</a>
+        <a href="lecture_notes/Klassifikation_von_Merkmalen.ipynb">3. Klassifikation von Merkmalen</a>
         <ul>
             <li>
-                <a href="Aufgaben_Klassifikation_von_Merkmalen.ipynb">3.1 Aufgaben zu: Klassifikation von Merkmalen</a>
+                <a href="lecture_notes/Aufgaben_Klassifikation_von_Merkmalen.ipynb">3.1 Aufgaben zu: Klassifikation von Merkmalen</a>
             </li>
         </ul>
     </li>
