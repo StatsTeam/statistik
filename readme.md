@@ -28,6 +28,11 @@
     </li>
     <li>
         <a href="lecture_notes/Deskriptive_(beschreibende)_Statistik.ipynb">4. Deskriptive (beschreibende) Statistik</a>
+        <ul>
+            <li>
+                <a href="lecture_notes/Darstellung_qualitativer_Daten.ipynb">4.1 Darstellung qualitativer Daten </a>
+            </li>
+        </ul>
     </li>
 </ul>
 
