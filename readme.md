@@ -35,6 +35,9 @@
             <li>
                 <a href="lecture_notes/Aufgaben_Darstellung_qualitativer_Daten.ipynb">4.2 Aufgaben zu: Darstellung qualitativer Daten </a>
             </li>
+            <li>
+                <a href="lecture_notes/Darstelung_quantitativ_diskreter_Daten.ipynb">4.3 Darstelung quantitativ diskreter Daten</a>
+            </li>
         </ul>
     </li>
 </ul>
