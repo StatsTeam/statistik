@@ -26,5 +26,8 @@
             </li>
         </ul>
     </li>
+    <li>
+        <a href="lecture_notes/Deskriptive_(beschreibende)_Statistik.ipynb">4. Deskriptive (beschreibende) Statistik</a>
+    </li>
 </ul>
 
