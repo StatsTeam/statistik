@@ -18,5 +18,8 @@
             </li>
         </ul>
     </li>
+    <li>
+        <a href="Klassifikation_von_Merkmalen.ipynb">3. Klassifikation von Merkmalen</a>
+    </li>
 </ul>
 
