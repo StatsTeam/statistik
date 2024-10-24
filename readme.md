@@ -13,4 +13,7 @@
     <li>
         <a href="Grundlegende_Begriffe_der_Statistik.ipynb">2. Grundlegende Begriffe der Statistik</a>
     </li>
+    <li>
+        <a href="Aufgaben_Grundlegende_Begriffe_der_Statistik.ipynb">3. Aufgaben zu: Grundlegende Begriffe der Statistik</a>
+    </li>
 </ul>
