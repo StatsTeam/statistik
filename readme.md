@@ -20,6 +20,11 @@
     </li>
     <li>
         <a href="Klassifikation_von_Merkmalen.ipynb">3. Klassifikation von Merkmalen</a>
+        <ul>
+            <li>
+                <a href="Aufgaben_Klassifikation_von_Merkmalen.ipynb">3.1 Aufgaben zu: Klassifikation von Merkmalen</a>
+            </li>
+        </ul>
     </li>
 </ul>
 
