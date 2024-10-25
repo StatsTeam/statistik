@@ -1,7 +1,5 @@
 # Erste Schritte
 
-## Voraussetzungen
-
 **Windows**
 
 - Python 3 oder höhere Version installieren
