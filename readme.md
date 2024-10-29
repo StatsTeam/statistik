@@ -97,6 +97,9 @@
                 <li>
                 <a href="lecture_notes/Aufgaben_Darstellung_quantitativ_stetiger_Daten.ipynb">4.6 Aufgaben zu: Darstellung quantitativ stetiger Daten</a>
             </li>
+            <li>
+                <a href="lecture_notes/Empirische_Verteilungsfunktion.ipynb">4.7 Empirische Verteilungsfunktion</a>
+            </li>
         </ul>
     </li>
 </ul>
