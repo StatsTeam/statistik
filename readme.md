@@ -56,6 +56,11 @@
 
 ## Inhaltsverzeichnis
 
+### I. Mathematische Grundlagen
+
+
+### II. Grundlagen der Statistik
+
 <ul>
     <li>
         <a href="lecture_notes/Was_ist_Statistik.ipynb">1. Was ist Statistik</a>
