@@ -100,6 +100,14 @@
             <li>
                 <a href="lecture_notes/Empirische_Verteilungsfunktion.ipynb">4.7 Empirische Verteilungsfunktion</a>
             </li>
+            <ul>
+                <li>
+                    <a href="lecture_notes/Empirische_Verteilungsfunktion_bei_quantitativ_diskreten_Merkmalen.ipynb">4.7.1 Empirische Verteilungsfunktion bei quantitativ diskreten Merkmalen</a>
+                </li>
+                    <li>
+                    <a href="lecture_notes/Aufgaben_Empirische_Verteilungsfunktion_diskret.ipynb">4.7.2 Aufgaben zu: Empirische Verteilungsfunktion bei quantitativ diskreten Merkmalen</a>
+                </li>
+            </ul>
         </ul>
     </li>
 </ul>
