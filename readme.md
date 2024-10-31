@@ -119,3 +119,12 @@
         </ul>
     </li>
 </ul>
+
+### III. Anhang
+
+<ul>
+  <li>
+    <a href="lecture_notes/Glossar.ipynb">Glossar</a>
+  </li>
+</ul>
+
