@@ -58,6 +58,12 @@
 
 ### I. Mathematische Grundlagen
 
+<ul>
+    <li>
+      <a href="lecture_notes/Was_ist_Mathematik.ipynb">1. Was ist Mathematik</a>
+    </li>
+</ul>
+
 
 ### II. Grundlagen der Statistik
 
