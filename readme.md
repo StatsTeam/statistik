@@ -62,6 +62,9 @@
     <li>
       <a href="lecture_notes/Was_ist_Mathematik.ipynb">1. Was ist Mathematik</a>
     </li>
+    <li>
+      <a href="lecture_notes/Die_Mengenlehre.ipynb">2. Die Mengenlehre</a>
+    </li>
 </ul>
 
 
