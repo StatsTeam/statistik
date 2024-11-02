@@ -65,6 +65,11 @@
     <li>
       <a href="lecture_notes/Die_Grundlagen_der_Mengenlehre.ipynb">2. Die Grundlagen der Mengenlehre</a>
     </li>
+    <ul>
+      <li>
+        <a href="lecture_notes/Aufgaben_Die_Grundlagen_der_Mengenlehre.ipynb">2.1 Aufgaben zu: Die Grundlagen der Mengenlehre</a>
+      </li>
+    </ul>
     <li>
       <a href="lecture_notes/Die_Grundlagen_der_Arithmetik.ipynb">3. Die Grundlagen der Arithmetik</a>
     </li>
