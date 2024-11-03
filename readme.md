@@ -71,6 +71,9 @@
     <li>
       <a href="lecture_notes/Die_Grundlagen_der_Arithmetik.ipynb">4. Die Grundlagen der Arithmetik</a>
     </li>
+    <li>
+      <a href="lecture_notes/Die_Grundlagen_der_Algebra.ipynb">5. Die Grundlagen der Algebra</a>
+    </li>
 </ul>
 
 
