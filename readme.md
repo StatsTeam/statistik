@@ -77,6 +77,9 @@
     <li>
       <a href="lecture_notes/Die_Grundlagen_der_Algebra.ipynb">6. Die Grundlagen der Algebra</a>
     </li>
+    <li>
+      <a href="lecture_notes/Einführung_in_Funktionen.ipynb">8. Einführung in Funktionen</a>
+    </li>
 </ul>
 
 
