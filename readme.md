@@ -144,6 +144,9 @@
                 <li>
                     <a href="lecture_notes/Empirische_Verteilungsfunktion_bei_quantitativ_stetigen_Merkmalen.ipynb">4.7.3 Empirische Verteilungsfunktion bei quantitativ stetigen Merkmalen</a>
                 </li>
+                  <li>
+                    <a href="lecture_notes/Aufgaben_zu_Empirische Verteilungsfunktion bei quantitativ stetigen Merkmalen.ipynb">4.7.4 Aufgaben zu: Empirische Verteilungsfunktion bei quantitativ stetigen Merkmalen</a>
+                </li>
             </ul>
         </ul>
     </li>
