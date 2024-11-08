@@ -80,6 +80,11 @@
     <li>
       <a href="lecture_notes/Einführung_in_Funktionen.ipynb">8. Einführung in Funktionen</a>
     </li>
+    <ul>
+      <li>
+        <a href="lecture_notes/Projekt_Funktionsploter_lineare_Funktionen.ipynb">8.1 Projekt: Funktionsploter für lineare Funktionen</a>
+      </li>
+    </ul>
 </ul>
 
 
