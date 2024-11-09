@@ -148,6 +148,9 @@
                     <a href="lecture_notes/Aufgaben_zu_Empirische Verteilungsfunktion bei quantitativ stetigen Merkmalen.ipynb">4.7.4 Aufgaben zu: Empirische Verteilungsfunktion bei quantitativ stetigen Merkmalen</a>
                 </li>
             </ul>
+             <li>
+                <a href="lecture_notes/Lagemaßzahlen.ipynb">4.8 Die Lagemaßzahlen</a>
+              </li>
         </ul>
     </li>
 </ul>
