@@ -151,6 +151,14 @@
              <li>
                 <a href="lecture_notes/Lagemaßzahlen.ipynb">4.8 Die Lagemaßzahlen</a>
               </li>
+              <ul>
+              <li>
+                <a href="lecture_notes/Das_arithmetische_Mittel.ipynb">4.8.1 Das arithmetische Mittel</a>
+              </li>
+              <li>
+                <a href="lecture_notes/Aufgaben_zu_Das_arithmetische_Mittel.ipynb">4.8.2 Aufgaben zu: Das arithmetische Mittel</a>
+              </li>
+              </ul>
         </ul>
     </li>
 </ul>
