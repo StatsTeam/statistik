@@ -170,8 +170,11 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Das_arithmetische_Mittel_klassierter_Daten.ipynb">4.8.6 Aufgaben zu: Das arithmetische Mittel klassierter Daten</a>
               </li>
-                <li>
+              <li>
                 <a href="lecture_notes/Der_Median.ipynb">4.8.7 Der Median</a>
+              </li>
+              <li>
+                <a href="lecture_notes/Aufgaben_zu_Der_Median.ipynb">4.8.8 Aufgaben zu: Der Median</a>
               </li>
               </ul>
         </ul>
