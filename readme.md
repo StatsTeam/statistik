@@ -158,6 +158,9 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Das_arithmetische_Mittel.ipynb">4.8.2 Aufgaben zu: Das arithmetische Mittel</a>
               </li>
+              <li>
+                <a href="lecture_notes/Das_gewichtete_arithmetische_Mittel.ipynb">4.8.3 Das gewichtete arithmetische Mittel</a>
+              </li>
               </ul>
         </ul>
     </li>
