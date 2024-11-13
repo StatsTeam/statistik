@@ -176,6 +176,9 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Der_Median.ipynb">4.8.8 Aufgaben zu: Der Median</a>
               </li>
+              <li>
+                <a href="lecture_notes/Quantile_und_Boxplots.ipynb">4.8.9 Quantile und Boxplots</a>
+              </li>
               </ul>
         </ul>
     </li>
