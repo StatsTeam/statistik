@@ -182,6 +182,9 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Quantile_und_Boxplots.ipynb">4.8.10 Aufgaben zu: Quantile und Boxplots</a>
               </li>
+                <li>
+                <a href="lecture_notes/Der_Modalwert.ipynb">4.8.11 Der Modalwert (Modus)</a>
+              </li>
               </ul>
         </ul>
     </li>
