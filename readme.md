@@ -185,8 +185,8 @@
               <li>
                 <a href="lecture_notes/Der_Modalwert.ipynb">4.8.11 Der Modalwert (Modus)</a>
               </li>
-                <li>
-                <a href="lecture_notes/Der_Modalwert.ipynb">TEST</a>
+              <li>
+                <a href="lecture_notes/Aufgaben_zu_Der_Modalwert.ipynb">4.8.12 Aufgaben zu: Der Modalwert</a>
               </li>
               </ul>
         </ul>
