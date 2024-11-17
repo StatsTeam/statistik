@@ -191,6 +191,9 @@
               <li>
                 <a href="lecture_notes/Zusammenfassung_Modalwert_Mittelwert_Median.ipynb">4.8.13 Zusammenfassung zum arithmetischen Mittel, Median und Modus</a>
               </li>
+              <li>
+                <a href="lecture_notes/Das_geometrische_Mittel.ipynb">4.8.14 Das geometrische Mittel</a>
+              </li>
               </ul>
         </ul>
     </li>
