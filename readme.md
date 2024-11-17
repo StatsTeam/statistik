@@ -188,6 +188,9 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Der_Modalwert.ipynb">4.8.12 Aufgaben zu: Der Modalwert</a>
               </li>
+              <li>
+                <a href="lecture_notes/Zusammenfassung_Modalwert_Mittelwert_Median.ipynb">4.8.13 Zusammenfassung zum arithmetischen Mittel, Median und Modus</a>
+              </li>
               </ul>
         </ul>
     </li>
