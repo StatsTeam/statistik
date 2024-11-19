@@ -197,8 +197,11 @@
               <li>
                 <a href="lecture_notes/Aufgaben_zu_Das_geometrische_Mittel.ipynb">4.8.15 Aufgaben zu: Das geometrische Mittel</a>
               </li>
-                <li>
+              <li>
                 <a href="lecture_notes/Das_harmonische_Mittel.ipynb">4.8.16 Das harmonische Mittel</a>
+              </li>
+              <li>
+                <a href="lecture_notes/Aufgaben_zu_Das_harmonische_Mittel.ipynb">4.8.17 Aufgaben zu: Das harmonische Mittel</a>
               </li>
               </ul>
         </ul>
